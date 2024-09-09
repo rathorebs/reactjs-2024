@@ -1,0 +1,1623 @@
+
+
+h3{
+    font-size: 25px!important;
+    font-family: Manrope;
+}
+h4{
+    font-size: 14px!important;
+    
+}
+form h4{
+    margin: 0px!important;
+}
+div{
+    font-family: Manrope;
+}
+#cts-kpi-dv {
+    min-width: 600px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto!important;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+}
+#cts-kpi-dv p{
+    margin: 0px;
+    font-size: 14px;
+}
+h4{
+    font-size: 20px !important;
+}
+p{
+    font-size: 14px;
+}
+a{
+    font-size: 14px;
+}
+input{
+    font-size: 14px;
+}
+th{
+    font-size: 14px; 
+}
+label{
+    font-size: 14px;   
+}
+button .text-sm{
+    font-size: 14px;  
+}
+.cursor-not-allowed{
+    pointer-events: auto! important;
+     cursor: not-allowed! important;
+}
+.themebg-cts-blg{   
+    background: rgb(255,232,225);
+    background: linear-gradient(90deg, rgba(255,232,225,1) 0%, rgba(255,255,255,1) 50%, rgba(248,224,251,1) 100%);
+}
+#inner-admin-paymets #onboarding-tbl >*{
+    min-width: 100%!important;
+}
+#inner-admin-paymets #onboarding-tbl{
+    width: 100%!important;
+}
+#addshift-date-time-dv div{
+    min-width: 32%;
+}
+#ctsdropdown-blg-dv {
+    overflow: hidden;
+    float: left;
+    min-width:fit-content;
+    transition: 1s;
+  }
+
+  #ctsdropdown-blg-dv .dropbtn {
+    font-size: 14px!important;
+    font-weight: 700!important;  
+    display: flex;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    color: #393838;
+    margin: 0;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  #ctsdropdown-blg-dv .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 60px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  #ctsdropdown-blg-dv .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  #bdr-leftbar-dv{
+    display: flex;
+    justify-content: flex-start;
+}
+#bdr-leftbar-dv >*{
+    width: 0.125rem;
+    height: 2.5rem;
+}
+#leftbar-blg .rounded-45xl{
+    min-width: 45px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+  #ctsdropdown-blg-dv:hover #drop-icon-img{
+    transition: 1s;
+    transform: rotateX(173deg);
+    position: relative;
+  }
+  #ctsdropdown-blg-dv .dropdown-content a:hover {
+    background-color: rgb(231 239 241 / var(--tw-bg-opacity));
+    color: black;
+  }
+  
+  #ctsdropdown-blg-dv:hover .dropdown-content {
+    display: block;
+  }
+  #dropdown-content-en.dropdown-content{
+    min-width:120px;
+  }
+  #dropdown-profile.dropdown-content{
+    min-width:200px;
+    position: absolute;
+    right:14%;
+  }
+#accordion-cts-blg { 
+    min-width:100%!important;
+}
+#accordion-cts-blg #inneraccordion-cts{ 
+    padding: 10px 10px;
+    margin-bottom: 4px;
+    background-color: #EAEAEA;
+    min-width: fit-content!important;
+}
+#accordion-cts-blg >*{
+    padding: 10px;
+
+}
+#accordion-cts-blg div:nth-child(2) div:nth-child(2), #accordion-cts-blg div:nth-child(3) div:nth-child(2) {
+    border:1px solid inherit!important;
+}
+#accordion-cts-blg div:nth-child(2) div:nth-child(3), #accordion-cts-blg div:nth-child(3) div:nth-child(3) {
+     border:1px solid inherit!important;
+}
+#accordion-cts-blg div:nth-child(2) div:nth-child(4), #accordion-cts-blg div:nth-child(3) div:nth-child(4) {
+     border:1px solid inherit!important;
+}
+#accordion-cts-blg div:nth-child(2) div:nth-child(5), #accordion-cts-blg div:nth-child(3) div:nth-child(5) {
+     border:1px solid inherit!important;
+     padding-left: 4px;
+}
+#accordion-cts-blg div:nth-child(2) div:nth-child(6), #accordion-cts-blg div:nth-child(3) div:nth-child(6) {
+     border:1px solid inherit!important;
+}
+#accordion-cts-blg div:nth-child(2) div:nth-child(7), #accordion-cts-blg div:nth-child(3) div:nth-child(7) {
+     border:1px solid inherit!important;
+}
+#accordion-cts-blg div:nth-child(2) div:nth-child(8), #accordion-cts-blg div:nth-child(3) div:nth-child(8) {
+     border:1px solid inherit!important;
+     padding-left: 5px;
+}
+#cancelshift-blg{
+    /* height:750px; */
+    overflow: hidden;
+}
+#askcary-rightbar-dv{
+    height:706px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+#askcary-chatbar-dv{
+    height:706px;
+    overflow-y: visible;
+    overflow-x: unset;
+}
+#chat_section_dv{
+    height: 450px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+.askcary_input-chat{
+    /* padding-bottom: 90px; */
+    min-width: 100%;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+    border-radius: 5px;
+  }
+
+
+
+/* toggle-CSS-start */
+
+header .toggle-button-cover {
+    display: table-cell;
+    position: relative;
+    box-sizing: border-box;
+    border-radius: 32px;
+  }
+  
+  header .button-cover {
+    background-color: #fff;
+    border-radius: 32px;
+}
+  
+  header .button-cover:before {
+    counter-increment: button-counter;
+    content: counter(button-counter);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: #d7e3e3;
+    font-size: 12px;
+    line-height: 1;
+    padding: 5px;
+  }
+  
+ header .knobs,
+ header .layer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  
+  header .button {
+    position: relative;
+    width: 100px;
+    padding: 5px;
+    height: 40px;
+}
+  
+  header .button.r,
+  header .button.r .layer {
+    border-radius: 100px;
+  }
+  
+  header .button.b2 {
+    border-radius: 2px;
+  }
+  
+  header .checkbox {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 3;
+  }
+  
+  header .knobs {
+    z-index: 2;
+  }
+  
+  header .layer {
+    width: 100%;
+    background-color: rgb(231 239 241 / var(--tw-bg-opacity));
+    transition: 0.3s ease all;
+    border:1px solid #ddd;
+    z-index: 1;
+  }
+
+  header #button-1 .knobs:before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    background-position: center;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-size: 50% 50%;
+    background-image: url("./assets/Admin/sun.svg");
+    font-weight: bold;
+    text-align: center;
+    font-family: "Font Awesome 5 Free";
+    line-height: 1;
+    top: 5px;
+    height:38px;
+    width:38px;
+    background-color: #fff;
+    border-color: rgb(217 217 217 / var(--tw-border-opacity));
+    border:1px solid #ddd!important;
+    border-radius: 50%;
+    transition: 0.3s cubic-bezier(0.18, 0.89, 0.35, 1.15) all;
+  }
+  
+  header #button-1 .checkbox:checked + .knobs:before {
+    content: "";
+    line-height: 1;
+    left: 65px;
+    top: 5px;
+    font-family: "Font Awesome 5 Free";
+    height:50px;
+    transition: 0.3s cubic-bezier(0.18, 0.89, 0.35, 1.15) all;
+    width:38px;
+    height: 38px;
+    border:1px solid #ddd!important;
+    background-repeat: no-repeat;
+    background-image: url("./assets/Admin/moon.png");
+    background-color: #fff;
+    background-size: 40% 40%;
+  }
+  
+  header #button-1 .checkbox:checked ~ .layer {
+    background-color: #000;
+  }
+  
+  header #button-1 .knobs,
+  header #button-1 .knobs:before,
+  header #button-1 .layer {
+    transition: 0.3s ease all;
+  }
+.inner-logout-nav{
+    display: flex;
+    align-items: center;
+    gap:5px;
+
+    padding: 1px 18px;
+    border-radius: 70px;
+}
+
+.darkmode_logo{
+    display: none;
+}
+
+:root{
+    --caryfy-navbar_clr:#292e32;
+}
+
+
+#fom_btn-blg{    
+    justify-content: flex-end;
+}
+#loader-main-blg{
+    height: 100vh;
+    background-color:rgba(255,255,255,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ctc-onborad-hscreen{
+    min-height: 100vh;
+    max-height: 100vh;
+}
+/* #toggle_nav_blg{
+    border:1px solid red;
+    display: none;
+}
+ #toggle-clk{
+    border:1px solid #000!important;
+    cursor: pointer;
+}
+#toggle_nav_blg +  #toggle-clk + #light-icon-dv{
+    display: none;
+}
+#toggle_nav_blg:checked +  #toggle-clk + #light-icon-dv{
+    display: block;
+} */
+#status-btn-dv {
+    margin: 20px 0px;
+    padding: 10px 25px;
+}
+header >*{
+    display: flex;
+    align-items: center!important;
+}
+#accordion-dv{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+#responsive_tabel{
+    overflow-x:inherit;
+}
+#reset-cts-dv{
+    border-radius: 5px;
+    padding: 5px;
+}
+.cts-desh-width{
+    min-width: 100%;
+    padding: 0px;
+}
+/* #respon-palnof-care p:nth-child(1) {
+    border: 1px solid red;
+    min-width: 50px!important;
+    word-wrap: break-word;
+    font-size: 12px;
+} */
+.planof_care_blg{
+    width: 100%;
+    display: flex;
+}
+#cts-interaction-blg{
+    padding: 20px;
+    padding-bottom: 20px;
+}
+#client-itcclaims-blg table, #client-itcclaims-blg #onboarding-tbl, #ltc-client-form #onboarding-tbl,  #ltc-client-form table{
+    min-width: 100%;
+}
+#cts-form-tbl #onboarding-tbl, #cts-form-tbl #onboarding-tbl table{
+    min-width: 100%;
+}
+#selectagency-blg section{
+    padding: 0px;
+    background-color: transparent;
+    margin-left: 0px;
+}
+#selectagency-blg{
+    background-color: transparent;
+}
+
+#cts-gap-dv{
+    gap: 12px!important;
+    padding: 0px;
+}
+#onborading-right #accordion-dv{
+    padding: 10px 10px;
+}
+#onborading-right .imgagency-upload{
+    min-width: 100%;
+    height: auto;
+}
+#onborading-right .agencyinfoaddress >* div{
+    min-width: 100%;
+}
+ @media(max-width:1536px){
+    #cancelshift-blg{
+        height:938px;
+    }
+    .askcary_input-chat{
+        padding-bottom: 00px;
+        min-width: 100%;
+    }
+    #askcary-rightbar-dv{
+        height:830px;
+        overflow-y: scroll;
+        overflow-x: unset;
+    }
+    #askcary-rightbar-dv form{
+        min-width: 100%;
+    }
+    #askcary-chatbar-dv{
+        height:830px;
+        overflow-y: visible;
+        overflow-x: unset;
+    }
+    #chat_section_dv {
+        height: 100%!important;
+        justify-content: flex-start!important;
+        display: flex;
+        padding-top: 50px;
+    }
+    header{
+        max-width:100%
+    }
+    #dropdown-profile.dropdown-content{
+        right:1%;
+      }
+
+  }
+  @media(max-width:1425px){
+    #leftbar-blg{
+        min-width: 20%;
+    }
+    #onborading-right{
+        min-width: 70%;
+    }
+  }
+@media(max-width:1366px){
+    #cancelshift-blg {
+        height: 966px;
+    }
+    #dropdown-profile.dropdown-content{
+        right:1%;
+      }
+      #inner-askcary-blg{
+        border:1px solid inherit;
+      }
+      #inner-askcary-blg >* div{
+        display: flex;
+        justify-content: center;
+      }
+      #inner-askcary-blg >* div h3{
+        display: flex;
+        justify-content: center;
+      }
+  }
+@media(max-width:1280px){
+    #chat_section_dv >* {
+        max-width: 90%;
+        padding: 0px 10px;
+    }
+    #askcary_right_btn {
+        padding-top: 30px;
+    }
+    #dropdown-profile.dropdown-content{
+        right:1%;
+      }
+      #cts-justify-center >*{
+        justify-content: center!important;
+        display: flex;
+      }
+      #cancelshift-blg {
+        height: 966px;
+    }
+    #leftbar-blg{
+        min-width: 15%;
+    }
+    #onborading-right{
+        min-width: 75%;
+    }
+    #payer-btn-row{
+        flex-wrap: nowrap;
+        padding: 0px;
+    }
+  }
+  @media(max-width:1024px){
+    #chat_section_dv >* {
+        max-width: 100%;
+        padding: 0px 10px;
+    }
+    #askcary_right_btn {
+        padding-top: 30px;
+    }
+    #innercancel-shift{
+        display: block!important;
+    }
+    #askcary-rightbar-dv{
+        min-width: 100%;
+        margin: 20px 0px;
+        margin-bottom: 60px;
+    }
+  }
+@media(max-width:991px){
+    header >*{
+        max-width: 100%!important;
+        display:flex;
+        align-items: center!important;
+    }
+    #cancelshift-blg {
+        padding-bottom: 50px;
+        height: auto!important;
+    }
+      #dropdown-profile.dropdown-content{
+        right:1%;
+      }
+    #ctsdropdown-blg-dv .dropbtn {
+        font-size: 14px!important;
+    }
+    #ctsdropdown-blg-dv:hover #drop-icon-img{
+        position: relative;
+        top: 0px;
+    }
+    #desh-cts-dv{
+        display: block;
+    }
+    #cts-flex-w-full{
+        min-width: 100%;
+    }
+    #askcary-ctslist{
+        display: flex;
+        justify-content: center;
+        padding-right: 0px;
+    }
+    #askcary-title-dv >*{
+        display: flex;
+        justify-content:center;
+    }
+    #cancelshift-blg{
+        padding-bottom: 50px;
+    }
+    #innercancel-shift{
+        display: block!important;
+    }
+    #innercancel-shift > div:nth-child(2){
+        min-width: 100%;
+    }
+    header{
+        max-width: 100%;
+    }
+    #cts-respon-p-dv{
+    padding-top: 100px!important;
+    padding-bottom: 150px!important;
+   }
+   #accordion-cts-blg >* {
+    padding: 10px;
+    gap: 0px;
+    flex-wrap: nowrap;
+    min-width: 37%;
+}
+#clientcare-input >div {
+    max-width: 74px!important;
+}
+#clientview-card-cts >*:first-of-type{
+    min-width: 93%;
+}
+#clientview-card-cts >*:first-of-type #addinterration-blg-dv{
+    min-width: 100%;
+}
+#clientview-card-cts #cts_card-blg {
+    position: relative!important;
+    left: 0px!important;
+    top: 0px!important;
+}
+#clientview-card-cts{
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+#card-cts-row {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px!important;
+    padding: 15px 15px;
+}
+#chat_section_dv >* {
+    max-width: 90%;
+    padding: 0px 10px;
+}
+#askcary-rightbar-dv {
+    margin-bottom: 70px;
+    height: 530px;
+    margin-top: 30px;
+}
+#onboarding-tbl table{
+    width:1140px!important;
+}
+#onboarding-tbl {
+    overflow: scroll!important;
+    width: 100%;
+    padding-right: 0px!important;
+}
+}
+@media(max-width:820px){
+    #clientview-card-cts{
+        display: block;
+        /* padding: 10px; */
+        min-width: 100%;
+    }
+    #clientview-card-cts #cts_card-blg {
+        min-width: 100%;
+    }
+    #clientview-card-cts >*:first-of-type {
+        min-width: 100%;
+        position: static;
+    }
+    #clientcare-input{
+        gap: 20px;
+    }
+    #accordion-cts-blg >* {
+        padding: 10px;
+        gap: 0px;
+        flex-wrap: nowrap;
+        min-width: 37%;
+        align-items: center;
+    }
+    #card-cts-row {
+        position: relative;
+    }
+}
+@media(max-width:767px){
+    #responsive_tabel{
+        overflow-x:scroll;
+    }
+    #accordion-cts-blg >* {
+        padding: 10px;
+        gap: 0px;
+        flex-wrap: nowrap;
+        min-width: 37%;
+    }
+    #clientcare-input >div {
+        max-width: 74px!important;
+    }
+    #cts_block_respon{
+        display: block;
+        padding-right: 0px!important;
+    }
+    #inner_checcts_row{
+        display: block;
+        padding-right: 0px!important;
+    }
+    #inner_checcts_row >*{
+        min-width: 100%;
+        padding-right: 0px!important; 
+    }
+    #inner_dis_blk{
+        display: block;
+        padding-right: 0px!important;
+    }
+    #inner-form-medicaid-doc{
+        padding: 0px;
+    }
+    #ctc-timedate-dv{
+        min-width: 100%;
+        padding: 0px;
+    }
+    #payer-cts-form #payer-btn-row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #payer-cts-form #payer-btn-row button{
+        border:1px solid transparent;
+        min-width:fit-content;
+    }
+    #onboarding-tbl table{
+        width:1140px!important;
+    }
+    #onboarding-tbl {
+        overflow: scroll!important;
+        width: 100%;
+        padding-right: 0px!important;
+    }
+}
+
+@media(max-width:575px){
+
+    
+/* fonts-size-CSS */
+    h3{
+        font-size: 22px!important;
+    }
+    h2{
+        font-size: 22px!important;
+    }
+    h4{
+        font-size: 14px !important;
+        margin: 10px 0px;
+    }
+    header #ctsdropdown-blg-dv button{
+        font-size: 14px !important;
+        font-weight: 700!important;
+    }
+    span{
+        font-size: 14px !important;
+    }
+    #ctsdropdown-blg-dv .dropbtn{
+        font-size:14px!important;
+    }
+    p{
+        font-size: 14px !important;
+        margin: 5px 0px;
+        padding-right: 0px!important;
+    }
+    b{
+        font-size: 14px !important;
+    }
+    td input{
+        font-size: 14px !important;
+    }
+    tr th{
+        font-size: 14px !important;
+    }
+    label{
+        font-size: 14px !important;
+    }
+    .text-sm >*{
+        font-size: 14px !important;
+    }
+    .text-sm >* a{
+        font-size: 14px !important;
+     }
+
+/* fonts-size-CSS */
+
+div#client-itcclaims-btn {
+    padding: 0px 20px;
+}
+#inner-form-medicaid-doc{
+    padding: 0px;
+}
+#ctc-timedate-dv{
+    min-width: 100%;
+    display: block;
+    padding: 0px;
+}
+#inner-form-medicaid-doc{
+    display: block;
+}
+#inner-form-medicaid-doc >*, #ctc-timedate-dv >*{
+    min-width: 100%;
+    margin-bottom: 20px;
+}
+#ctc-timedate-dv button{
+    padding: 10px;
+}
+#cts-form-tbl, #medical-payergroup-form{
+    padding: 15px;
+    padding-bottom: 15px;
+}
+#respon-p{
+    padding:0px;
+    padding-bottom: 0px;
+}
+#va-form-blg{
+    padding: 15px;
+}
+#va-form-blg #cts-width-full, #medical-payergroup-form #cts-width-full{
+padding-right: 0px;
+}
+#pr-cts-dv{
+    padding-right: 0px;
+}
+.cts-pr-crts{
+    padding-right: 15px!important;
+}
+#payer-cts-form #payer-btn-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+#payer-cts-form #payer-btn-row button{
+    border:1px solid transparent;
+    min-width:fit-content;
+}
+#payer-cts-form{
+    padding: 15px;
+}
+.clientview-card-assessor #addinterration-blg-dv {
+    min-width: 92%!important;
+    margin:0 auto;
+}
+#assesor-detail-blg #assessor_upload_blg{
+padding: 0px;
+}
+#assesor-detail-blg #assessor_upload_blg #cts-width-full{
+min-width: 100%;
+}
+.agencyinfoaddress >*{
+    min-width: 91%!important;
+    padding-right: 0px;
+}
+#assesor-detail-blg #cts-assesor-detail{
+    min-width: 100%;
+}
+#agency-respom-blg #cts-block-dv div {
+    min-width:inherit;
+    padding-right: 0px;
+}
+#agency-respom-blg  .agencyinfo-img-blg{
+    padding-top: 17px;
+    padding-left: 0px;
+}
+#selectagency-blg {
+    min-width: 100%;
+}
+#cts-gap-dv > div{
+    min-width: 100%;
+}
+.csts-p-dv >*, .csts-p-dv{
+   min-width: 100%;
+   padding-left: 0px;
+}
+#caregiver_personalinfo-form #cts-width-full{
+    min-width: 100%;
+    padding-right: 0px;
+}
+#caregiver_personalinfo-form{
+    padding: 15px;
+}
+    #assessor_upload_blg{
+        display: block;
+    }
+    #assessor_upload_blg:nth-child(1){
+        padding: 50px;
+    }
+    #doit-manuly_respon{
+        min-width: 34%;
+        margin: 0 auto;
+    }
+    
+    #cancelshift-blg {
+        padding-bottom: 100px;
+        padding-top: 100px;
+    }
+    #inner-askcary-blg >* div {
+        display: block;
+        min-width: 100%;
+    }
+    /* #askcary_main_blg{
+        height: auto!important;
+        overflow: auto!important;
+    } */
+    .cts-justify-center >*{
+        margin-bottom: 20px;
+    }
+    #askcary_input_blg >* div{
+        min-width: 97%;
+        display: flex;
+    }
+    #inner-askcary-blg >* div p{
+        text-align: center;
+    }
+    #clientview-card-cts{
+        display: block; 
+    }
+    #client-itcclaims-blg{
+        padding:15px 0px;
+        padding-bottom: 15px;
+    }
+    #clientview-card-cts #cts_card-blg {
+        min-width: 100%;
+    }
+    #clientview-card-cts >*:first-of-type {
+        min-width: 100%;
+        position: static;
+    }
+    #clientcare-input{
+        gap: 20px;
+    }
+    #accordion-cts-blg >* {
+        padding: 10px;
+        gap: 0px;
+        flex-wrap: nowrap;
+        min-width: 37%;
+        align-items: center;
+    }
+
+    #card-cts-row {
+        position: relative;
+    }
+    #clientcare-input >span {
+        min-width: 40px!important;
+        font-size: 11px;
+    }
+    #clientcare-input >div {
+        min-width: 19px!important;
+    }
+    #clientcare-input >* input{
+        min-width:18px!important;
+    }
+    #cts-respon-p-dv h3{
+        height: inherit;
+    }
+   
+    #cts-respon-p-dv{
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+    #addshift-date-time-dv{
+        min-width: 100%;
+    }
+    #cts-full-width{
+        min-width: 100%;
+        margin-left: 0px!important;
+        padding: 0px!important;
+        margin-bottom: 20px!important;
+    }
+    #cts-full-width >*{
+        min-width: 100%;
+        
+    }
+    #care_dlr-_address{
+        min-width: 100%;
+        display: block;
+        padding-right: 0px;
+    }
+    #care_dlr-_address > div{
+        padding: 0px;
+    }
+    #care_dlr-_address > div:last-of-type{
+        padding:10px 0px
+    }
+    #onboarding-tbl{
+        overflow: scroll!important;
+        width: 100%;
+    }
+    #cts_block_respon > div{
+        min-width:100%;
+    }
+    #cts_block_respon #inner_dis_blk >*{
+       margin-bottom: 10px;
+    }
+    #onboarding-tbl table{
+        width:1140px!important;
+    }
+    tr th{
+        font-size:16px!important;
+    }
+    label{
+        font-size:16px!important;
+    }
+    .text-sm >*{
+        font-size:16px!important;
+    }
+    .text-sm >* a{
+        font-size:16px!important;
+     }
+     #cts-block-dv{
+        padding:10px 0px;
+     }
+     #addshift-date-time-dv {
+        padding-right: 0px!important;
+        margin:10px 0px;
+     }
+     .nav-logoimg-blg {
+        width: 100%;
+     }
+     /* .nav-logoimg-blg img{
+        width: 150px;
+        height: 60px;
+     } */
+     header{
+        padding: 0px!important;
+        min-width: 100%!important;
+    }
+    header >*{
+        max-width: 100%!important;
+        display:flex;
+        align-items: center!important;
+    }
+     .nav-items-dv {
+        display: flex;
+        align-items: center!important;
+        gap: 6px;
+     }
+     #addshift-date-time-dv > div{
+        min-width: 100%;
+        font-size: 20px;
+     }
+     #addshift-date-time-dv >* input{
+        font-size:16px!important;
+     }
+     /* #cts-dropdown-dv{
+        min-height: 70px;
+     } */
+     /* .nav-user-img  img{
+        height:60px!important;
+        width: 60px!important;
+      } */
+      /* .light-icon-dv img{
+        height:30px!important;
+        width: 30px!important;
+      } */
+    /* .drop-icon-dv img{
+        height:30px!important;
+        width: 30px!important;
+      } */
+      /* #cts-dropdown-dv  img {
+        height: 30px!important;
+        width: 30px!important;
+    } */
+     #dash-rightbar{
+        min-width: 100%;
+     }
+     #dash-leftbar{
+        min-width: 100%;
+     }
+    header img:nth-child(2){
+        height: 30px!important;
+        width: 30px!important;
+    }
+     #logo-cts-dv{
+        width: 200px;
+        height: fit-content;
+     }
+     header{
+       padding:30px 20px!important;
+        font-size: 23px!important;
+    }
+    ::placeholder{
+        font-size: 23px!important;
+    }
+    #cts-fullwidth-input{
+        padding-right: 0px!important;
+    }
+    #cts-fullwidth-input >*{
+        min-width: 100%;
+    }
+    #persnal_info-frm-dv{
+        padding: 15px;
+        padding-bottom: 15px;
+    }
+    #persnal_info-frm-dv #billing-cts-dv >*{
+        min-width: 100%;
+    }
+    #billing-cts-dv{
+        min-width: 100%;
+        padding-right: 0px;
+    }
+    #persnal_info-frm-dv #cts-fullwidth >* {
+        min-width: auto!important;
+    }
+    #addhealth_info_dv >*{
+        padding-right: 0px;
+    }
+    #payer-btn-row{
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    #calltype-row >*{
+        min-width: 100%;
+    }
+    #leftbar-blg{
+        min-width: 100%;
+        display: -webkit-box;
+    }
+    #leftbar-blg div >*{
+        display: flex;
+    }
+    #bdr-leftbar-dv >*{
+        border:none;
+        display: none;
+    }
+    #bdr-leftbar-dv.flex-col{
+        flex-direction:row!important;
+    }
+    #leftbar-blg .rounded-45xl{
+        min-width: 40px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    #cts-kpi-dv {
+        min-width: 380px!important;
+        display: flex;
+        margin: 0 auto;
+        left: 0px;
+        right: 0px;
+        justify-content: center;
+        position: fixed;
+        margin: 0px;
+        gap: 0px!important;
+    }
+    #cts-kpi-dv >* {
+        max-width: 61px!important;
+        margin: 0 auto;
+        gap: 0px;
+    }
+    #cts-kpi-dv  button{
+        padding: 3px!important;
+    }
+    #cts-block-dv{
+        display: block;
+    }
+    #kpi-cts-img {
+        width:20px;
+        /* height: 40px; */
+    }
+    #desh-cts-dv{
+        padding-bottom: 100px;
+    }
+    #askcary-ctslist{
+        display: block;
+    }
+    #askcary-ctslist > div{
+        min-width: 100%;
+        margin-bottom: 20px;
+    }
+    #askcary-cts-main{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .calltype-agency-dv >span{
+        min-width: 300px;
+        text-align: center;
+    }
+    /* input{
+        min-height: 70px;
+    } */
+    #addshift-form-dv{
+        display: block;
+    }
+    #addshift-form-dv > div{
+        min-width: 100%;
+        display: flex;
+        margin:20px 0px;
+    }
+    #cts-block-dv{
+        display: block;
+    }
+    #cts-block-dv div{
+        min-width: 100%;
+    }
+    #repeat-input-dv{
+        min-width: 100%;
+        margin-bottom: 20px;
+    }
+    #status-btn-dv{
+        margin: 20px 0px;
+        padding:10px 25px;
+    }
+    #status-btn-dv span{
+        font-size:16px!important;
+    }
+    #cts-width-full >*{
+        min-width: 100%!important;
+    }
+    #noteinput-dv input{
+        font-size: 16px!important;
+    }
+    #addshift-date-time-dv >*{
+        font-size: 16px!important;
+    }
+    #addshift-form-dv {
+        padding: 15px;
+        padding-bottom: 15px;
+    }
+    #respon-display{
+        display: contents;
+        text-align: center!important;
+    }
+    #onborading-right{
+        padding: 15px;
+        padding-bottom: 15px!important;
+    }
+    #onborading-right >*{
+        padding-right: 0px;
+    }
+    #leftbar-blg >div{
+        padding: 0px 5px;
+    }
+    #bdr-leftbar-dv{
+        display: none;
+    }
+    #cts-interaction-blg{
+        padding: 15px;
+        padding-bottom: 15px;
+    }
+    #edwp-main-dv{
+        padding: 15px;
+        padding-bottom: 15px;
+    }
+    #admin_important_dates #addshift-date-time-dv{
+        padding: 0px;
+    }
+    #admin_important_dates #addshift-date-time-dv > div{
+        padding: 0px;
+        min-width: 60%!important;
+        margin: 0 auto;
+    }
+    #admin_important_dates #addshift-date-time-dv > div > div >*{
+        width: 85%!important;
+        margin: 0 auto;
+    }
+    #healthinf-main form{
+        padding: 15px;
+        padding-bottom: 15px;
+    }
+    #chat_section_dv >* {
+        max-width: 90%;
+        padding: 0px 10px;
+    }
+    #askcary-rightbar-dv {
+        margin-bottom: 70px;
+        height: 530px;
+        margin-top: 30px;
+    }
+    #askcary_right_btn{
+        padding-top: 10px;
+    }
+    #delete-shift-blg span{
+        display: flex !important;
+        width: auto;
+        align-items: center;
+    }
+    #addshift-date-time-dv > div {
+        min-width: 100%!important;
+        padding-right: 0px!important;
+        /* display: block; */
+    }
+    #deleteshift-blg #btn-row-respon {
+        display: flex;
+        min-width: 100%!important;
+        flex-wrap: nowrap;
+    }
+    #inner_approve_shift_dv{
+        display: block;
+    }
+    #approveshift_checkinput > div{
+        min-width: 100%;
+    }
+    #addinterration-blg-dv{
+        min-width:100%;
+    }
+    #cts-interaction-blg #cts-titmeinput-dv{
+        display: flex!important;
+    }
+    #cts-interaction-blg #cts-titmeinput-dv div:nth-child(1){
+        min-width:30%;
+    }
+    #cts-interaction-blg #cts-titmeinput-dv div:nth-child(2){
+        min-width:30%;
+    }
+    #cts-interaction-blg #cts-titmeinput-dv div:nth-child(3){
+        min-width:10%;
+    }
+    #cts-interaction-blg #cts-titmeinput-dv div:nth-child(3) div{
+        width: 90%;
+    }
+    #cts-radio-btn{
+        min-width:100%;
+        padding: 0px;
+    }
+    #cts-radio-btn >*{
+        width:fit-content;
+        margin: 0px 3px;
+    }
+    #cts-radio-btn  >*:nth-child(1){
+        width:100%;
+    }
+    #cts-flex-blg  #cts-radio-btn > div{
+        /* min-width: 200px; */
+        padding-right: 0px;
+        margin-right: 0px;
+    }
+    .cts-checkbox-blg {
+        padding: 0px!important;
+        margin: 0px;
+    }
+    #pb0-cts-dv{
+        margin-bottom: 0px!important;
+        padding-bottom: 0px!important;
+    }
+
+    #services-type-blg-row > div{
+        padding: 0px;
+        margin:0px;
+    }
+    #btn-row-blg-edwp > button{
+        padding-right: 12px;
+        padding-left: 12px;
+    }
+    #cts-inner-fullwidth{
+        display: block;
+    }
+    #cts-inner-fullwidth > div:nth-child(2){
+        min-width: 100%;
+        padding-bottom: 10px;
+    }
+    #cts-fullwidth{
+        display: block;
+        padding-right: 0px!important;
+    }
+    #cts-fullwidth >*{
+        min-width: 100%;
+        margin-right: 0px;
+        padding-bottom: 10px;
+        padding-right: 0px!important;
+    }
+    #cts-fullwidth.gender-blg >*{
+        min-width: fit-content;
+    }
+    #personal-info-cts-dv{
+        min-width:100%;
+    }
+    #admin-client-detail-blg #assessor_upload_blg{
+        padding: 0px;
+    }
+    #btn-cts-row{
+        flex-wrap: nowrap;
+    }
+    .pr-0-cts, #ltc-client-form #cts-width-full{
+        padding-right: 0px;
+    }
+    table div{
+        font-size: 16px!important;
+    }
+    #admin-client-detail-blg #p-cts-discrease{
+        padding: 0px;
+        padding-bottom: 15px;
+    }
+    #client_work_comp_dv, #autoinsurance-dv, #ltc-client-form {
+        padding: 15px;
+        padding-bottom: 15px;
+    }
+    #client_work_comp_dv #cts-width-full{
+        padding-right: 0px;
+    }
+    #autoinsurance-dv #cts-width-full{
+        padding-right: 0px;
+    }
+    /* #upload-img-dv img:nth-child(1){
+        min-width: 40px;
+        height: 40px;
+        margin: 10px;
+    } */
+    #clientcare-input #cts-dropdown-dv {
+        min-height:inherit!important;
+        padding: 4px!important;
+        font-size:16px!important;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    #accordion-cts-blg {
+        max-width: 100%!important;
+        overflow: auto;
+    }
+    #clientcare-input #cts-dropdown-dv img{
+        height: 8px !important;
+        width: 10px !important;
+    }
+    #inneraccordion-cts #addinterration-blg-dv div{
+        font-size:11px!important;
+        padding: 2px;
+    }
+    #cts-kpi-dv p b{
+        font-size: 10px!important;
+        margin: 0px;
+        font-weight: 400;
+    }
+    ::placeholder{
+        font-size: 16px!important;
+    }
+    header {
+        padding: 15px!important;
+    }
+    #onborading-right {
+        min-width: 100%;
+    }
+    #view_client_details #addinterration-blg-dv{
+        min-width: -webkit-fill-available!important;
+        margin: 0 auto;
+        padding: 15px;
+    }
+}
+
+@media(max-width:480px){
+    #payer-cts-form #payer-btn-row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #payer-cts-form #payer-btn-row button{
+        border:1px solid transparent;
+        min-width:fit-content;
+    }
+    #onborading-right {
+        min-width: 100%;
+    }
+    a {
+        font-size: 14px!important;
+    }
+    #status-btn-dv span {
+        font-size: 14px!important;
+    }
+    label {
+        font-size: 14px!important;
+    }
+    #inneraccordion-cts #addinterration-blg-dv div{
+        font-size:10px!important;
+        padding: 2px;
+    }
+    h3{
+        font-size: 19px!important;
+    }
+    span{
+        font-size:14px!important;
+    }
+    b, div{
+        font-size: 14px !important;
+    }
+    p{
+        font-size: 14px !important;
+        padding-right: 0px!important;
+    }
+    #addshift-date-time-dv >* input {
+        font-size: 14px!important;
+    }
+    .text-sm >*{
+       font-size: 14px !important;
+    }
+    #leftbar-blg >div{
+        padding: 5px 5px;
+    }
+    #leftbar-blg {
+        min-width: 100%;
+        display: block;
+    }
+    .text-sm >* a{
+        font-size: 14px !important;
+     }
+     #cts-dropdown-dv >*{
+        font-size: 14px !important;
+     }
+     #cts-kpi-dv >* {
+        font-size: 13px!important;
+        margin: 0px;
+    }
+    ::placeholder{
+        font-size: 14px !important;
+    }
+    table div{
+        font-size: 14px!important;
+    }
+     #cts-dropdown-dv img{
+        width: 35px;
+     }
+     #cts-block-dv{
+        padding:10px 0px;
+     }
+     #addshift-date-time-dv {
+        padding-right: 0px!important;
+        margin:10px 0px;
+     }
+     #addshift-date-time-dv > div{
+        min-width: 100%;
+     }
+     /* #cts-dropdown-dv{
+        min-height: 70px;
+     } */
+     #cts-interaction-blg #cts-titmeinput-dv{
+        display: flex!important;
+    }
+    #cts-width-full >* p{
+        display: contents!important;
+    }
+    header .toggle-button-cover .button {
+        position: relative;
+        width: 60px;
+        padding: 5px;
+        height: 21px;
+    }
+    header #button-1 .knobs:before {
+        top: 5px;
+        height: 20px;
+        width: 20px;
+    }
+    header #button-1 .checkbox:checked + .knobs:before {
+        left: 44px;
+        width: 20px;
+        height: 20px;
+    }
+    header {
+        padding: 15px!important;
+    }
+    #font_increase_dv{
+        display:none;
+    }
+    #onborading-right #cts-block-dv div{
+        min-width: inherit;
+    }
+}
+@media(max-width:430px){
+    #payer-cts-form #payer-btn-row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #payer-cts-form #payer-btn-row button{
+        border:1px solid transparent;
+        min-width:fit-content;
+    }
+}
+@media(max-width:414px){
+    #payer-cts-form #payer-btn-row{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #payer-cts-form #payer-btn-row button{
+        border:1px solid transparent;
+        min-width:fit-content;
+    }
+    header .toggle-button-cover .button {
+        position: relative;
+        width: 37px;
+        padding: 5px;
+        height: 21px;
+    }
+    header #button-1 .knobs:before {
+        top: 5px;
+        height: 20px;
+        width: 20px;
+    }
+    header #button-1 .checkbox:checked + .knobs:before {
+        left: 22px;
+        width: 20px;
+        height: 20px;
+    }
+    header {
+        padding: 15px!important;
+    }
+    .nav-logoimg-blg img {
+        width: 100px;
+    }
+    .nav-logoimg-blg img {
+        width: inherit;
+    }
+    .nav-user-img img {
+        width: 25px;
+    }
+    #leftbar-blg .count-left{
+        min-width: 40px!important;
+        min-height:auto!important;
+    }
+    
+}
+/* @media only screen and (min-device-width: 320px) and (max-device-width:991px) and (orientation: landscape) {
+
+} */
